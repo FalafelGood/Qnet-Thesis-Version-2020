@@ -1,3 +1,7 @@
+"""
+In this file, we run a script to find the expected error value of the 'simple_purify' reduction method against the node deletion probability.
+"""
+
 from QNET import *
 import pandas as pd
 import matplotlib.pyplot as plt
