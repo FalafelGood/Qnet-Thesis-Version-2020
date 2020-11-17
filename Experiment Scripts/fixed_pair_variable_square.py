@@ -1,3 +1,7 @@
+"""
+In this file, we characterise the "Simple_Purify" reduction method for different square lattice sizes where the communication pair remains at equidistant fixed points.
+"""
+
 from QNET import *
 from textwrap import wrap
 
