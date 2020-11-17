@@ -1,3 +1,7 @@
+"""
+In this file,  we characterise the performance of the "Simple_Purify" reduction method against several different lattice types
+"""
+
 from QNET import *
 import random
 from textwrap import wrap
